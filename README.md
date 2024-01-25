@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaurjasleen240305
+- 👋 Hi, I’m Jasleen 
 - 👀 I’m interested in learning new things in technical field and thinking new ideas and developing them.
 - 🌱 I’m currently learning WEB(3.0) and DSA.
 
